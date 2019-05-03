@@ -37,7 +37,7 @@
 
 <br>
 WORLD DJ FESTIVAL에서 1년여정도 대외활동을 하며, 다양한 사람들과 커뮤니케이션 하는법을 배우고, 디자인 뿐만 아닌 다양한 경험으로 중무장했습니다.
-그 외에도 [AA610](https://www.facebook.com/AutonomousArea610/?epa=SEARCH_BOX) 
+그 외에도 [AA610](https://www.facebook.com/AutonomousArea610/?epa=SEARCH_BOX) 등의
 
 -------------
 #프로젝트
