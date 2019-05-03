@@ -22,39 +22,52 @@
 #대외활동
 
 </br>
-[아토] (https://www.facebook.com/ATTO4u/?__tn__=%2Cd%2CP-R&eid=ARAyqPf_5tjtXTqcupsCkxMuhQx2TNy0mwOYvBuKnXiF-Ia6ZuLtvZuadEGpqXHGorX2sK4dFTl_9J22)*(Activities)*
 
+- **[ATTO](https://www.facebook.com/ATTO4u/?__tn__=%2Cd%2CP-R&eid=ARAyqPf_5tjtXTqcupsCkxMuhQx2TNy0mwOYvBuKnXiF-Ia6ZuLtvZuadEGpqXHGorX2sK4dFTl_9J22)    *WORLD DJ FESTIVAL (Activities)***
   - 의류 공유경제기반 대외활동 *(월드디제이페스티벌 소속)*
-  - 디자이너
+  - 디자인
   - 기간 : 2014.12월 ~ 2015, 6월
-
   </br>
 
 - **[상상공장](#)    *WORLD DJ FESTIVAL (Activities)***
   - 프로그램 기획 2팀 rpm14기
-  - 디자이너
+  - 디자인
   - 기간 : 2014. 6월 ~2014.8월
-
 <br>
+- **[AA610](https://www.facebook.com/AutonomousArea610/) Private Party Team***
+  - 디자인 및 기획
+  - 기간 : 2016.7월~ 
+<Br>
+
 WORLD DJ FESTIVAL에서 1년여정도 대외활동을 하며, 다양한 사람들과 커뮤니케이션 하는법을 배우고, 디자인 뿐만 아닌 다양한 경험으로 중무장했습니다.
-그 외에도 [AA610](https://www.facebook.com/AutonomousArea610/?epa=SEARCH_BOX) 등의
+그 외에도 개인 파티팀을 만들어 3회의 파티를 기획했습니다.
+
+
+- [TOEASA:Leaving Party ver.1](https://www.facebook.com/TOEASALeaving-Party-ver1-2018323271614625/?modal=admin_todo_tour)
+- [Flight 610 -  #알고있나요_오늘만큼은_하와이처럼](https://www.facebook.com/AutonomousArea610/)
+- [구움몽](https://www.facebook.com/events/274244399588427/)
 
 -------------
-#프로젝트
+#할줄 아는거
 
-  - **[만인의꿈] 꿈꾸는둥지 UI/UX 디자인**
-    - 온/오프라인 디자인
-    - 꿈꾸는둥지 홈페이지 디자인
-    - 초기 BX 디자인
-</br>
-  - **[주택도시보증공사 HUG x 만인의꿈] 허그하우스 3호점 프로젝트**
-    - HUG하우스 BX 디자인
-https://www.youtube.com/watch?v=wNnpvZNyTrA
-</br>
+Adobe Photoshop
+Adobe Illustrator
+Adobe InDesign
 
-  - **[만인의꿈] 점포사업 BX 디자인**
-    - 6개의 신규점포사업 BX디자인 및 유지보수
-(주야창천, 일파만파, 꿈피스, 일상의온도 등)
+Sketch
+Adobe XD
+Zepline
+
+Adobe After Effects
+Adobe Premiere
+
+
+Cinema4D
+3D Max
+
+HTML5
+CSS3
+
 </br>
 </br>
 
